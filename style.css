@@ -1,0 +1,22 @@
+.main{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+#text{
+    width: 250px;
+    height: 30px;
+
+    border-radius: 30px;
+    background-color: lightblue;
+    border: none;
+    font-size: 1.1rem;
+}
+#displayText{
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: green;
+}
